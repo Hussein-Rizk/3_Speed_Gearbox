@@ -124,48 +124,11 @@ These files contain the original CAD work used during the design and development
 
 The original project proposal is included here:
 
-📎 **[View Project Proposal](./Project%20Proposal.pdf)**
+📎 **[View Project Proposal](./Project.pdf)**
 
 The proposal contains the original project idea, operating scenarios, component list, side-view design, and team information.
 
----
 
-## 📁 Repository Structure
-
-```text
-3-Speed-Gearbox-Mechanism/
-│
-├── README.md
-├── Project Proposal.pdf
-│
-├── Pics/
-│   ├── Gearbox_Realistic_Render.png
-│   ├── Gearbox_Labeled_Design.png
-│   └── Gearbox_Unfinished_Prototype.jpg
-│
-└── SolidWorks/
-    ├── Assem1.SLDASM
-    ├── Assem2.SLDPRT
-    ├── Box.SLDPRT
-    ├── Gear 1.SLDPRT
-    ├── part1 gear.SLDPRT
-    ├── part2 gear.SLDPRT
-    ├── Part3 gear.SLDPRT
-    ├── Shaft.SLDPRT
-    └── spur gear_am.SLDPRT
-```
-
----
-
-## 🎯 What the Project Demonstrates
-
-- Basic gearbox operation
-- Gear-ratio based speed selection
-- Rotational-motion transmission
-- Shaft and bearing arrangement
-- Mechanical selection mechanisms
-- Mechanical prototyping and assembly
-- SolidWorks part and assembly modeling
 
 ---
 
